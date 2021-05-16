@@ -6,10 +6,10 @@ The purpose of this website is to generate passwords. Users can select the lengt
 ## Bulit with:
 * HTML
 * CSS
-* JS
+* Javascript
 
 # Website link:
-
+https://parkerc1999.github.io/passwordGenerator/
 
 ## Contribution:
 Made by Parker Christiansen
