@@ -14,4 +14,5 @@ https://parkerc1999.github.io/passwordGenerator/
 ## Contribution:
 Made by Parker Christiansen
 
-![Website Screenshot] (/passwordGenerator-screenshot.PNG)
+## Screenshot
+![Website Screenshot] (https://github.com/ParkerC1999/passwordGenerator/blob/main/passwordGenerator-snapshot.PNG)
