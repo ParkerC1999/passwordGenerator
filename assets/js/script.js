@@ -22,10 +22,6 @@ function generateString(numberOfSelChars){
 // Write password to the #password input
 function writePassword() {
 
-
-
-
-
   var numberOfChars = window.prompt("How many characters? (8 min and 128 max)");
   var numberOfSelChars = parseInt(numberOfChars);
   if (numberOfChars === null || numberOfChars === "" || numberOfChars === NaN) {
@@ -89,19 +85,7 @@ function writePassword() {
     
   }
   
-
-
 };
-
-
-
-
-// switch ( ) {
-//   case (8 <=  <= 128):
-
-//   default:
-//     window.alert("You need to pick a valid number")
-// }
 
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
